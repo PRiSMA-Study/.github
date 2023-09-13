@@ -18,6 +18,7 @@ Contains all PRISMA codes to be used by any member of the PRISMA team across all
   + Generates histograms of digit preferences for MUAC, Maternal respiratory rate, and SpO2.
 
 ### [📁](https://github.com/PRiSMA-Study/REMAPP-Public) ReMAPP-Public
+Contains all ReMAPP codes to be used by any member of the PRISMA/ReMAPP team across all study sites. Subfolders within ReMAPP-Public include:
 
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites) PRISMA-Data-Queries-Sites
 Contains all query codes currently being utilized by GW team to generate weekly query reports. Subfolders within PRISMA-Data-Queries-Sites include:
