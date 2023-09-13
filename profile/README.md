@@ -2,7 +2,7 @@
 
 Welcome to PRISMA-Study Github page! 
 
-All codes that are used to generate reports, perform analyses, merge data, create figures, etc. can be found in this repository. Codes are organized and stored in one of the public repositories that are pinned below this table of contents. Each subfolder within the repositories should have a `README.md` file with key information about that code including a brief description, author and email, and date last updated. 
+All codes that are used to generate reports, perform analyses, merge data, create figures, etc. can be found in this Github workspace. Codes are organized and stored in one of the public repositories that are pinned below this table of contents. Each subfolder within the repositories has a `README.md` file with key information about the contents including a brief description, code file names, author and email, and date last updated. 
 
 All public repositories and their subfolders are outlined below under the [repositories](#repositories-anchor) section. You can directly link to a repository by clicking the 📁 icon. 
 
