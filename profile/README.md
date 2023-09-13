@@ -22,5 +22,8 @@ Contains all query codes currently being utilized by GW team to generate weekly 
 * [R Query Codes](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites/tree/main/R%20Query%20Codes)
   + Generates query report using RStudio.
 * [STATA Query Codes](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites/tree/main/Stata%20Query%20Codes)
-  + Generates query report using STATA. 
+  + Generates query report using STATA.
+ 
+### 📁  Monitoring-Report-ACTIVE
+Contains all R code required to merge all site data into wide format and generate weekly monitoring report. 
 
