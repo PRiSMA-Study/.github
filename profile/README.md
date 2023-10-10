@@ -16,6 +16,8 @@ Contains instructions for utilizing Github including how to fork a repository, h
 
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Public) PRISMA-Public
 Contains all PRISMA codes to be used by any member of the PRISMA team across all study sites. Subfolders within PRISMA-Public include:
+* [PRISMA-Maternal-Constructed-Outcomes](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Maternal-Constructed-Outcomes)
+  + Contains codes needed to generate maternal outcomes outlined in the PRISMA protocol and produced an accompanying report with key metrics. 
 * [PRISMA-Infant-Constructed-Outcomes](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Infant-Constructed-Outcomes)
   + Contains codes needed to generate infant outcomes outlined in the PRISMA protocol and produced an accompanying report with key metrics. 
 * [PRISMA-Digit-Preference](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Digit-Preference)
