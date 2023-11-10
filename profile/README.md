@@ -30,7 +30,12 @@ Contains all PRISMA codes to be used by any member of the PRISMA team across all
   + R code to visualize the answer distribution for each question in fatigue form and also the distribution of subscale score by site.
 ### [📁](https://github.com/PRiSMA-Study/REMAPP-Public) ReMAPP-Public
 Contains all ReMAPP codes to be used by any member of the PRISMA/ReMAPP team across all study sites. Subfolders within ReMAPP-Public include:
-
+* [REMAPP-Healthy-Criteria-Crosstab-Histogram](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-Healthy-Criteria-Crosstab-Histogram)
+  + R codes for generating crosstabs and histograms for healthy cohort.
+* [REMAPP-Healthy_Criteria-Sensitivity-Analysis](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-Healthy_Criteria-Sensitivity-Analysis)
+  + The sensitivity analysis studies how different the healthy cohort is under various combinations of criterias. This helps us to define the healthy cohort in a better way.
+* [REMAPP-SAP](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-SAP)
+  + This is an active development for the ReMAPP statistical analysis R pipeline, and should be revised when the statistical analysis plan (SAP) is finalized.
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites) PRISMA-Data-Queries-Sites
 Contains all query codes currently being utilized by GW team to generate weekly query reports. Subfolders within PRISMA-Data-Queries-Sites include:
 * [R Query Codes](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites/tree/main/R%20Query%20Codes)
