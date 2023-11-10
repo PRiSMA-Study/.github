@@ -33,7 +33,7 @@ Contains all ReMAPP codes to be used by any member of the PRISMA/ReMAPP team acr
 * [REMAPP-Healthy-Criteria-Crosstab-Histogram](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-Healthy-Criteria-Crosstab-Histogram)
   + R codes for generating crosstabs and histograms for healthy cohort.
 * [REMAPP-Healthy_Criteria-Sensitivity-Analysis](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-Healthy_Criteria-Sensitivity-Analysis)
-  + The sensitivity analysis studies how different the healthy cohort is under various combinations of criterias. This helps us to define the healthy cohort in a better way.
+  + The sensitivity analysis studies how different the healthy cohort is under various combinations of criterias.
 * [REMAPP-SAP](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-SAP)
   + This is an active development for the ReMAPP statistical analysis R pipeline, and should be revised when the statistical analysis plan (SAP) is finalized.
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites) PRISMA-Data-Queries-Sites
