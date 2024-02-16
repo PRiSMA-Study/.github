@@ -1,6 +1,6 @@
 ## Table of Contents
 
-Welcome to the PRISMA-Study Github page! 
+Welcome to the PRISMA-Study GitHub page! 
 
 All codes that are used to generate reports, perform analyses, merge data, create figures, etc. can be found in this Github workspace. Codes are organized and stored in the public repositories that are pinned below this table of contents. Each subfolder within the repositories has a `README.md` file with key information about the contents including a brief description, code file names, author and email, and date last updated. 
 
