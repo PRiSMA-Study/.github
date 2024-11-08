@@ -16,18 +16,23 @@ Contains instructions for utilizing Github including how to fork a repository, h
 
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Public) PRISMA-Public
 Contains all PRISMA codes to be used by any member of the PRISMA team across all study sites. Subfolders within PRISMA-Public include:
-* [PRISMA-Recruitment-Flowchart](https://github.com/PRiSMA-Study/PRISMA-Public/blob/main/PRISMA-Recruitment-Flowchart.R)
-  + R code to produce cross tabs that following PRISMA recruitment workflow. 
 * [PRISMA-Maternal-Constructed-Outcomes](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Maternal-Constructed-Outcomes)
-  + Contains codes needed to generate maternal outcomes outlined in the PRISMA protocol and produced an accompanying report with key metrics. 
+  + Contains codes needed to generate maternal outcomes outlined in the PRISMA protocol and produce an accompanying report with key metrics.
 * [PRISMA-Infant-Constructed-Outcomes](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Infant-Constructed-Outcomes)
-  + Contains codes needed to generate infant outcomes outlined in the PRISMA protocol and produced an accompanying report with key metrics. 
-* [PRISMA-Digit-Preference](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Digit-Preference)
-  + Generates histograms of digit preferences for MUAC, Maternal respiratory rate, and SpO2.
+  + Contains codes needed to generate infant outcomes outlined in the PRISMA protocol and produce an accompanying report with key metrics.
+* [PRISMA-Lab-Report](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Lab-Report)
+  + Contains codes needed to generate lab performance and result distributions and produce an accompanying report with key metrics.
+* [PRISMA-Verbal-Autopsy](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Verbal-Autopsy)
+  + Contains data processing codes specific to verbal autopsies.
 * [PRISMA-Depression-Analysis](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Depression-Analysis)
   + R code to visualize the distribution of depression score and suicidal intent by site.
 * [PRISMA-Fatigue-Analysis](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Fatigue-Analysis)
   + R code to visualize the answer distribution for each question in fatigue form and also the distribution of subscale score by site.
+* [PRISMA-Recruitment-Flowchart](https://github.com/PRiSMA-Study/PRISMA-Public/blob/main/PRISMA-Recruitment-Flowchart.R)
+  + R code to produce cross tabs that following PRISMA recruitment workflow. 
+* [PRISMA-Digit-Preference](https://github.com/PRiSMA-Study/PRISMA-Public/tree/main/PRISMA-Digit-Preference)
+  + Generates histograms of digit preferences for MUAC, Maternal respiratory rate, and SpO2.
+
 ### [📁](https://github.com/PRiSMA-Study/REMAPP-Public) ReMAPP-Public
 Contains all ReMAPP codes to be used by any member of the PRISMA/ReMAPP team across all study sites. Subfolders within ReMAPP-Public include:
 * [REMAPP-Healthy-Criteria-Crosstab-Histogram](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/REMAPP-Healthy-Criteria-Crosstab-Histogram)
