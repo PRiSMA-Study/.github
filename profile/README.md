@@ -44,7 +44,7 @@ Contains all ReMAPP codes to be used by any member of the PRISMA/ReMAPP team acr
 * [REMAPP-Aim 2](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/ReMAPP-Aim2)
   + R codes for flexible isotonic regression on adverse outcome
 * [REMAPP-Aim 3](https://github.com/PRiSMA-Study/REMAPP-Public/tree/main/ReMAPP-Aim3)
-  + one sentence here
+  + R codes for risk factors or etiology of anemia
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites) PRISMA-Data-Queries-Sites
 Contains all query codes currently being utilized by GW team to generate weekly query reports. Subfolders within PRISMA-Data-Queries-Sites include:
 * [R Query Codes](https://github.com/PRiSMA-Study/PRISMA-Data-Queries-Sites/tree/main/R%20Query%20Codes)
