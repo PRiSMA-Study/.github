@@ -6,7 +6,7 @@ All codes that are used to generate reports, perform analyses, merge data, creat
 
 All public repositories and their subfolders are outlined below under the [repositories](#repositories-anchor) section. You can directly link to a repository by clicking the 📁 icon. 
 
-:pushpin: If a member of your team needs access to the PRISMA-Study Github page, please email Stacie (stacie.loisate@gwu.edu) or Xiaoyan (xyh@gwu.edu) to request access. 
+:pushpin: If a member of your team needs access to the PRISMA-Study Github page, please email Stacie (stacie.loisate@gwu.edu) to request access. 
 
 <a name="repositories-anchor"></a>
 
