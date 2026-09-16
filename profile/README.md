@@ -14,7 +14,7 @@ All public repositories and their subfolders are outlined below under the [repos
 ### [📁](https://github.com/PRiSMA-Study/GitHub-Instructions-PRISMA-ReMAPP) GitHub-Instructions-PRISMA-ReMAPP
 Contains instructions for utilizing GitHub, including how to fork a repository, how to clone a repository, how to push updates, etc. 
 
-### [📁]([https://github.com/PRiSMA-Study/GitHub-Instructions-PRISMA-ReMAPP] PRISMA-Consortium-Publications
+### [📁](https://github.com/PRiSMA-Study/PRISMA-Consortium-Publications) PRISMA-Consortium-Publications
 Contains code and supporting materials associated with PRISMA Consortium publications and scientific outputs. Each publication is organized into a separate folder containing the available analysis code and a README describing the code structure and how to utilize the code.
 
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Public) PRISMA-Public
