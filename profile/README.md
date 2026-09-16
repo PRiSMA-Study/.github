@@ -6,13 +6,16 @@ All codes that are used to generate reports, perform analyses, merge data, creat
 
 All public repositories and their subfolders are outlined below under the [repositories](#repositories-anchor) section. You can directly link to a repository by clicking the 📁 icon. 
 
-:pushpin: If a member of your team needs access to the PRISMA-Study Github page, please email Stacie (stacie.loisate@gwu.edu) to request access. 
+:pushpin: If a member of your team needs access to the PRISMA-Study Github page, please email Precious Williams (williams_pj@gwu.edu) to request access. 
 
 <a name="repositories-anchor"></a>
 
 ## Repositories:
 ### [📁](https://github.com/PRiSMA-Study/GitHub-Instructions-PRISMA-ReMAPP) GitHub-Instructions-PRISMA-ReMAPP
-Contains instructions for utilizing Github including how to fork a repository, how to clone a repository, how to push updates, etc. 
+Contains instructions for utilizing GitHub, including how to fork a repository, how to clone a repository, how to push updates, etc. 
+
+### [📁]([https://github.com/PRiSMA-Study/GitHub-Instructions-PRISMA-ReMAPP] PRISMA-Consortium-Publications
+Contains code and supporting materials associated with PRISMA Consortium publications and scientific outputs. Each publication is organized into a separate folder containing the available analysis code and a README describing the code structure and how to utilize the code.
 
 ### [📁](https://github.com/PRiSMA-Study/PRISMA-Public) PRISMA-Public
 Contains all PRISMA codes to be used by any member of the PRISMA team across all study sites. Subfolders within PRISMA-Public include:
